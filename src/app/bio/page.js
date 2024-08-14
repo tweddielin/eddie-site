@@ -21,7 +21,7 @@ export default function Bio() {
             playing in the Chicago local music scenes.
           </p>
           <p>
-            After years playing in bands, absorbing nutrition and influences from different genres, he began to dabble his hands in his own stuff and music production after pandemic hit hard in 2020. Eddie's music seamlessly blends elements of jazz, hip hop, and electronic music.
+            After years playing in bands, absorbing nutrition and influences from different genres, he began to dabble his hands in his own stuff and music production after pandemic hit hard in 2020. Eddie&lsquo;s music seamlessly blends elements of jazz, hip hop, and electronic music.
           </p>
           <p>
             Eddie continues to push the boundaries of modern jazz and electronic music,
