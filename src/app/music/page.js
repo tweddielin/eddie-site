@@ -2,8 +2,7 @@ import Image from 'next/image'
 
 export default function Music() {
   const albums = [
-    { title: 'Live at The Royal Room', year: '2023', cover: '/images/album1.jpg' },
-    { title: 'Infinite Playground', year: '2021', cover: '/images/album2.jpg' },
+    { title: 'Superposition State', year: '2024', cover: '/images/superposition-state-album-cover.png' },
     // Add more albums as needed
   ]
 
