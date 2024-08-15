@@ -22,8 +22,8 @@ import './globals.css'
 import Navigation from '../components/Navigation'
 
 export const metadata = {
-  title: 'Eddie Lin',
-  description: 'Official website of Eddie Lin',
+  title: 'Eddie',
+  description: 'Official website of Eddie',
 }
 
 export default function RootLayout({ children }) {

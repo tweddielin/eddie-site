@@ -8,7 +8,7 @@ export default function Bio() {
         <div className="w-full md:w-1/3">
           <Image
             src="/images/eddie-lin-addidas.jpg"
-            alt="Eddie Lin"
+            alt="Eddie"
             width={400}
             height={600}
             className="w-full h-auto rounded-lg"
