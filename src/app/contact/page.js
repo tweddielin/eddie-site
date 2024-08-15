@@ -8,19 +8,35 @@ export default function Contact() {
     email: '',
     message: ''
   })
+  const [status, setStatus] = useState('')
 
   const handleChange = (e) => {
     const { name, value } = e.target
     setFormData(prevState => ({ ...prevState, [name]: value }))
   }
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault()
-    // Here you would typically send the form data to a server
-    console.log('Form submitted:', formData)
-    // Reset form after submission
-    setFormData({ name: '', email: '', message: '' })
-    alert('Thank you for your message. We will get back to you soon!')
+    setStatus('Sending...')
+    try {
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(formData),
+      })
+      
+      if (response.ok) {
+        setStatus('Message sent successfully!')
+        setFormData({ name: '', email: '', message: '' })
+      } else {
+        setStatus('Failed to send message. Please try again.')
+      }
+    } catch (error) {
+      console.error('Error:', error)
+      setStatus('An error occurred. Please try again later.')
+    }
   }
 
   return (
@@ -72,6 +88,13 @@ export default function Contact() {
               Send Message
             </button>
           </div>
+          {status && (
+            <div className="mt-4 p-4 rounded-md bg-gray-800 text-center">
+              <p className={status.includes('successfully') ? 'text-green-400' : 'text-red-400'}>
+                {status}
+              </p>
+            </div>
+          )}
         </form>
       </div>
     </div>
