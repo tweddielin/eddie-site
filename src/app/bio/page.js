@@ -16,15 +16,18 @@ export default function Bio() {
         </div>
         <div className="w-full md:w-2/3 space-y-4">
           <p>
-            Eddie Lin is a keyboardist, beatmaker, and producer based in Chicago and New York City.
-            Born and raised in Taiwan, Eddie began playing piano at the age of seven. Moving to the US in 2016, he started
-            playing in the Chicago local music scenes.
+            Eddie is a keyboardist and producer based in Chicago and New York City. In 2020, he started to making beats and producing
+            music on SoundCloud. Eddie&lsquo;s music blends elements of indie, jazz, hip hop, R&B and electronic music with a soulful 
+            touch on the rhodes piano and synthesizers. He is planning to release his debut instrumental EP Superposition State in 2024.
           </p>
           <p>
-            After years playing in bands, absorbing nutrition and influences from different genres, he began to dabble his hands in his own stuff and music production after pandemic hit hard in 2020. Eddie&lsquo;s music seamlessly blends elements of jazz, hip hop, and electronic music.
+            Born and raised in Taiwan, Eddie began playing piano at the age of seven and playing in various bands in his young age.
+            Moving to the US in 2016, he started playing in the Chicago local music scenes.
+            After years being a sideman, absorbing musical nutrition and influences from different genres, 
+            he began to work on his own stuff and music production after pandemic hit hard in 2020. 
           </p>
           <p>
-            Eddie continues to push the boundaries of modern jazz and electronic music,
+            Eddie continues to blur the boundaries of music,
             creating innovative sounds that captivate audiences around the world.
           </p>
         </div>
