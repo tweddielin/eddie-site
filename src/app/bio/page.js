@@ -16,9 +16,9 @@ export default function Bio() {
         </div>
         <div className="w-full md:w-2/3 space-y-4">
           <p>
-            Eddie is a keyboardist and producer based in Chicago and Brooklyn. In 2020, he started to making beats and producing
+            Eddie is a keyboardist and producer based in Chicago and Brooklyn. In 2020, he started making beats and producing
             music on SoundCloud. Eddie&lsquo;s music blends elements of experimental, jazz, hip hop, R&B and electronic music with a soulful 
-            touch on the rhodes piano and synthesizers. He is extensively influenced by Rober Glasper, Yussef Kamaal, Flying Lotus, 
+            touch on the Rhodes piano and synthesizers. He is extensively influenced by Rober Glasper, Yussef Kamaal, Flying Lotus, 
             BigYuki, Kiefer and many others. He is planning to release his debut instrumental EP: Superposition State in 2024.
           </p>
           <p>
