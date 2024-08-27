@@ -9,13 +9,13 @@ export default function Home() {
       <Head>
         <link
           rel="preload"
-          href="/images/eddie-lin-on-keys.jpg"
+          href="/images/eddie-play-two-keys.JPG"
           as="image"
         />
       </Head>
       <div className="relative h-screen">
         <Image
-          src="/images/eddie-lin-on-keys.jpg"
+          src="/images/eddie-play-two-keys.JPG"
           alt="Eddie"
           fill
           style={{ objectFit: "cover" }}
