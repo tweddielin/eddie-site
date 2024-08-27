@@ -11,7 +11,7 @@ const tourDates = [
 export default function Show() {
   return (
     <div className="container mx-auto px-4 py-24">
-      <h1 className="text-3xl font-bold mb-8 text-center">Tour Dates</h1>
+      <h1 className="text-3xl font-bold mb-8 text-center">Shows</h1>
       <div className="max-w-3xl mx-auto">
         {tourDates.map((event, index) => (
           <div key={index} className="mb-8 p-6 bg-gray-900 rounded-lg shadow-lg">
