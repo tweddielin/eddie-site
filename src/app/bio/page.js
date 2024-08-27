@@ -26,12 +26,12 @@ export default function Bio() {
           <p>
             Born and raised in Taiwan, Eddie began playing piano at the age of seven and playing in various bands in his young age.
             Moving to the US in 2016, he started playing in the Chicago local music scenes.
-            After years being a sideman, absorbing musical nutrition and influences from different genres, 
+            After years being a sideman, absorbing nutritions and influences from different genres, 
             he began to work on his own stuff and music production after pandemic hit hard in 2020. 
           </p>
           <p>
-            Eddie continues to blur the boundaries of music,
-            creating innovative sounds that captivate audiences around the world.
+            {/* Eddie continues to blur the boundaries of music,
+            creating innovative sounds that captivate audiences around the world. */}
           </p>
         </div>
       </div>
