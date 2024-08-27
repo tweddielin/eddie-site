@@ -18,7 +18,7 @@ export default function Bio() {
           <p>
             Eddie is a keyboardist/producer based in Chicago and Brooklyn. He is planning to release his debut EP: Superposition State in 2024. 
             A soulful touch on the Rhodes piano, an eccentric drum groove, or an unconventional synth improvisation might be found in his music, or not at all. 
-            He is blending elements of experimental, jazz, hip hop, R&B and electronic music, bringing possibilities to the table that are both fresh and familiar.
+            His music blends elements of experimental, jazz, hip hop, R&B and electronic music, bringing possibilities to the table that are both fresh and familiar.
             He is extensively influenced by Rober Glasper, Yussef Kamaal, Flying Lotus, BigYuki, Kiefer and many others. 
             
           </p>
