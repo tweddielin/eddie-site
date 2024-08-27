@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
 const tourDates = [
-  { date: '2024-08-31', venue: 'Lei Flat Club', city: 'Los Angelos, CA', Link: 'https://www.instagram.com/leiflatclub/' },
+  { date: '2024-08-31', venue: 'Lei Flat Club', city: 'Los Angelos, CA', Link: '#' },
   // { date: '2024-09-22', venue: 'The Jazz Gallery', city: 'New York, NY', ticketLink: '#' },
   // { date: '2024-10-05', venue: 'SF Jazz Center', city: 'San Francisco, CA', ticketLink: '#' },
   // { date: '2024-10-12', venue: 'The Green Mill', city: 'Chicago, IL', ticketLink: '#' },
@@ -22,10 +22,10 @@ export default function Show() {
                 <p className="text-gray-400">{event.city}</p>
               </div>
               <Link
-                href={event.ticketLink}
+                href={event.Link}
                 className="mt-4 md:mt-0 inline-block bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-700 transition duration-300"
               >
-                Get Tickets
+                Link
               </Link>
             </div>
           </div>
