@@ -16,18 +16,17 @@ export default function Bio() {
         </div>
         <div className="w-full md:w-2/3 space-y-4">
           <p>
-            Eddie is a keyboardist/producer based in Chicago and Brooklyn. He is planning to release his debut instrumental EP: Superposition State in 2024.
-            After years of music playing in live bands when the pandemic hit in 2020, he started making beats and producing music. 
-            A soulful touch on the Rhodes piano, an eccentric drum groove, or an unconventional synth improvisations can be found in his music, 
-            blending elements of experimental, jazz, hip hop, R&B and electronic music. 
+            Eddie is a keyboardist/producer based in Chicago and Brooklyn. He is planning to release his debut EP: Superposition State in 2024. 
+            A soulful touch on the Rhodes piano, an eccentric drum groove, or an unconventional synth improvisation might be found in his music, or not at all. 
+            He's blending elements of experimental, jazz, hip hop, R&B and electronic music, bringing possibilities to the table that are both fresh and familiar.
             He is extensively influenced by Rober Glasper, Yussef Kamaal, Flying Lotus, BigYuki, Kiefer and many others. 
             
           </p>
           <p>
-            Born and raised in Taiwan, Eddie began playing piano at the age of seven and playing in various bands in his young age.
-            Moving to the US in 2016, he started playing in the Chicago local music scenes.
-            After years being a sideman, absorbing nutritions and influences from different genres, 
-            he began to work on his own stuff and music production after pandemic hit hard in 2020. 
+            Born and raised in Taiwan, Eddie started his music journey with classical piano but soon fell in love with jazz, fusion and hip hop. 
+            He had palyed in various blues/funk/rock/RnB bands and projects as a keyboardist or piano player before moving to the US in 2016. 
+            When the pandemic hit hard in 2020, he started to make beats and collaborate with other artists which created a new chapter for him. 
+            After years of being a sideman, absorbing nutritions from different genres, he's now stepping out to share his music to the world.
           </p>
           <p>
             {/* Eddie continues to blur the boundaries of music,
