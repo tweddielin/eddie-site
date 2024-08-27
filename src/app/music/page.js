@@ -8,18 +8,24 @@ export default function Music() {
       cover: '/images/superposition-state-album-cover.png', 
       type: 'image' 
     },
+    {
+      title: 'Casa Lei - Wheel-less, regard-less ?', 
+      year: '2023', 
+      cover: 'https://www.youtube.com/embed/qRZz_ru8NkQ?si=o7fV7HhgOqCVT0gv', 
+      type: 'youtube' 
+    },
     { 
       title: 'Talk (Khalid) Cover - Live from Narwhal Studios', 
       year: '2021', 
       cover: 'https://www.youtube.com/embed/pVdzklaS9mE?si=YTIlmbZWmTdnwyBQ', 
       type: 'youtube'
     },
-    {
-      title: 'Casa Lei - Wheel-less, regard-less ?', 
-      year: '2023', 
-      cover: 'https://www.youtube.com/embed/qRZz_ru8NkQ?si=o7fV7HhgOqCVT0gv', 
-      type: 'youtube' 
-    }
+    // {
+    //   title: 'Chicago Loud 9 - Bright Nights',
+    //   year: '2020',
+    //   cover: 'https://www.youtube.com/embed/5sbfdNTxhRk?si=i0tToxiQ7CGu8Y3Z',
+    //   type: 'youtube'
+    // }
     // Add more albums as needed
   ]
   return (
