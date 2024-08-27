@@ -13,6 +13,12 @@ export default function Music() {
       year: '2021', 
       cover: 'https://www.youtube.com/embed/pVdzklaS9mE?si=YTIlmbZWmTdnwyBQ', 
       type: 'youtube'
+    },
+    {
+      title: 'Casa Lei - Wheel-less, regard-less ?', 
+      year: '2023', 
+      cover: 'https://www.youtube.com/embed/qRZz_ru8NkQ?si=o7fV7HhgOqCVT0gv', 
+      type: 'youtube' 
     }
     // Add more albums as needed
   ]
