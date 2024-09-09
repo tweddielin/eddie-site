@@ -2,6 +2,7 @@ import Link from 'next/link'
 
 const tourDates = [
   { date: '2024-08-31', venue: 'Lei Flat Club', city: 'Los Angelos, CA', Link: 'https://www.instagram.com/leiflatclub/' },
+  { date: '2024-09-17', venue: 'Wonderville', city: 'Brooklyn, NY', Link: '' },
   // { date: '2024-09-22', venue: 'The Jazz Gallery', city: 'New York, NY', Link: '#' },
   // { date: '2024-10-05', venue: 'SF Jazz Center', city: 'San Francisco, CA', Link: '#' },
   // { date: '2024-10-12', venue: 'The Green Mill', city: 'Chicago, IL', Link: '#' },

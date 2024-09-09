@@ -24,7 +24,7 @@ export default function Bio() {
           </p>
           <p>
             Born and raised in Taiwan, Eddie started his music journey with classical piano but soon fell in love with jazz, fusion and hip hop. 
-            He had palyed in various blues/funk/rock/RnB bands and projects as a keyboardist or piano player before moving to the US in 2016. 
+            He had played in various blues/funk/rock/RnB bands and projects as a keyboardist or piano player before moving to the US in 2016. 
             When the pandemic hit hard in 2020, he started to dedicate himself in making beats and producing, opening a new chapter for him. 
             After years of being a sideman, absorbing nutrients from different genres, he is now stepping out to share his music to the world.
           </p>
