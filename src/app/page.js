@@ -24,7 +24,7 @@ export default function Home() {
         />
         <div className="absolute bottom-0 left-0 w-full p-8 bg-gradient-to-t from-black to-transparent">
           <div className="flex items-center space-x-4 mb-4">
-            <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">Eddie</h1>
+            <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">EDLN</h1>
             <div className="flex items-center space-x-4 mb-6">
               <SocialIcon href="https://www.instagram.com/tweddielin" icon={FaInstagram} label="Instagram" />
               <SocialIcon href="https://soundcloud.com/tweddielin" icon={FaSoundcloud} label="SoundCloud" />
