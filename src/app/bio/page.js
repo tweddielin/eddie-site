@@ -20,7 +20,7 @@ export default function Bio() {
             
             A soulful touch on the Rhodes piano, an eccentric drum groove, or an unconventional synth improvisation might be found in his music. 
             His music blends elements of experimental, jazz, hip hop, R&B and electronic music, exploring the possibilities of music.
-            He is extensively influenced by Rober Glasper, Yussef Kamaal, Flying Lotus, BigYuki, Kiefer and many others. 
+            He is extensively influenced by Robert Glasper, Yussef Kamaal, Flying Lotus, BigYuki, Kiefer and many others. 
             
           </p>
           <p>
