@@ -28,7 +28,7 @@ export default function Home() {
             <div className="flex items-center space-x-4 mb-6">
               <SocialIcon href="https://www.instagram.com/tweddielin" icon={FaInstagram} label="Instagram" />
               <SocialIcon href="https://soundcloud.com/tweddielin" icon={FaSoundcloud} label="SoundCloud" />
-              <SocialIcon href="https://open.spotify.com/artist/tweddielin" icon={FaSpotify} label="Spotify" />
+              <SocialIcon href="https://open.spotify.com/artist/0j5qK9I553LSshJgT7ibJV?si=ukbCliltQWqVQrQ2yn9A8A" icon={FaSpotify} label="Spotify" />
             </div>
           </div>
           <p className="text-xl text-white">Keyboardist • Beatmaker • Producer</p>

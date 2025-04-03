@@ -5,7 +5,7 @@ export default function Music() {
     { 
       title: 'Superposition State', 
       year: '2024', 
-      cover: '/images/superposition-state-album-cover.png', 
+      cover: 'https://open.spotify.com/embed/track/37WkqMv3DWvJkgbdHFwo3h?utm_source=generator&theme=0', 
       type: 'image' 
     },
     {
