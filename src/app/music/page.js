@@ -5,7 +5,7 @@ export default function Music() {
     { 
       title: 'Superposition', 
       year: '2024', 
-      cover: 'https://open.spotify.com/embed/track/37WkqMv3DWvJkgbdHFwo3h?utm_source=generator&theme=0', 
+      cover: '/images/superposition-edln.jpg', 
       type: 'image' 
     },
     {
