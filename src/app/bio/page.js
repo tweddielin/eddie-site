@@ -16,7 +16,7 @@ export default function Bio() {
         </div>
         <div className="w-full md:w-2/3 space-y-4">
           <p>
-            EDLN (Eddie Lin) is a keyboardist/producer based in Chicago and Brooklyn. He is planning to release his debut EP in fall 2024 - Superposition State. 
+            EDLN (Eddie Lin) is a keyboardist/producer based in Brooklyn. He is planning to release his debut Singale in 2025 Spring - Superposition. 
             
             A soulful touch on the Rhodes piano, an eccentric drum groove, or an unconventional synth improvisation might be found in his music. 
             His music blends elements of experimental, jazz, hip hop, R&B and electronic music, exploring the possibilities of music.

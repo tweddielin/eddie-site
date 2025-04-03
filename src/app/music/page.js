@@ -3,7 +3,7 @@ import Image from 'next/image'
 export default function Music() {
   const albums = [
     { 
-      title: 'Superposition State', 
+      title: 'Superposition', 
       year: '2024', 
       cover: 'https://open.spotify.com/embed/track/37WkqMv3DWvJkgbdHFwo3h?utm_source=generator&theme=0', 
       type: 'image' 
