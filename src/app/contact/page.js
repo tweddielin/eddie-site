@@ -42,7 +42,7 @@ export default function Contact() {
   return (
     <div className="container mx-auto px-4 py-24">
       <h1 className="text-3xl font-bold mb-8 text-center">Contact</h1>
-      <div className="max-w-2xl mx-auto"> Please send to tweddieiln@gmail.com
+      <div className="max-w-2xl mx-auto"> For collaborations, purchases, or just to say hello: tweddielin@gmail.com
         {/* <form onSubmit={handleSubmit} className="space-y-6">
           <div>
             <label htmlFor="name" className="block text-sm font-medium mb-2">Name</label>
